@@ -1,0 +1,821 @@
+[
+  {
+    "plant_name": "Tomato",
+    "botanical_name": "Solanum lycopersicum",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Regular",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Warm",
+    "growth_time": "60-85 days",
+    "how_to_grow": [
+      "Start indoors 6-8 weeks before last frost.",
+      "Transplant when soil is warm.",
+      "Space plants 18-24 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Use compost or organic fertilizers.",
+      "Prune suckers for better yield."
+    ],
+    "fertilizer": "Tomatoes prefer fertilizers with high potassium and phosphorus content, such as a 5-10-10 NPK fertilizer."
+  },
+  {
+    "plant_name": "Carrot",
+    "botanical_name": "Daucus carota",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "70-80 days",
+    "how_to_grow": [
+      "Direct sow in loose, well-drained soil.",
+      "Space seeds 2-4 inches apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to avoid root splitting.",
+      "Keep the soil free of weeds.",
+      "Thin plants to avoid overcrowding."
+    ],
+    "fertilizer": "Use a balanced NPK fertilizer, such as 10-10-10, or organic options like compost."
+  },
+  {
+    "plant_name": "Cucumber",
+    "botanical_name": "Cucumis sativus",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Warm",
+    "growth_time": "50-70 days",
+    "how_to_grow": [
+      "Start indoors 3-4 weeks before last frost.",
+      "Transplant when soil is warm.",
+      "Space plants 12-18 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water deeply and regularly.",
+      "Mulch to retain soil moisture.",
+      "Provide support for climbing varieties."
+    ],
+    "fertilizer": "Use a balanced fertilizer like 10-10-10 or organic compost to promote healthy growth."
+  },
+  {
+    "plant_name": "Spinach",
+    "botanical_name": "Spinacia oleracea",
+    "category": "Vegetable",
+    "sunlight": "Full Sun or Partial Shade",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "35-50 days",
+    "how_to_grow": [
+      "Sow seeds directly in the garden.",
+      "Space seeds 1 inch apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Harvest leaves early for best flavor.",
+      "Mulch to prevent weeds."
+    ],
+    "fertilizer": "Use a balanced fertilizer or organic compost to promote leafy growth."
+  },
+  {
+    "plant_name": "Lettuce",
+    "botanical_name": "Lactuca sativa",
+    "category": "Vegetable",
+    "sunlight": "Full Sun or Partial Shade",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "50-60 days",
+    "how_to_grow": [
+      "Sow seeds directly in the garden.",
+      "Space seeds 12-18 inches apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Harvest outer leaves regularly.",
+      "Mulch to prevent weeds."
+    ],
+    "fertilizer": "Lettuce benefits from a balanced fertilizer such as 10-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Chili Pepper",
+    "botanical_name": "Capsicum annuum",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Regular",
+    "soil_type": "Well-drained",
+    "climate": "Warm",
+    "growth_time": "60-90 days",
+    "how_to_grow": [
+      "Start indoors 8-10 weeks before last frost.",
+      "Transplant after last frost when soil is warm.",
+      "Space plants 18-24 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly but avoid waterlogging.",
+      "Use organic fertilizer.",
+      "Prune to encourage bushier growth."
+    ],
+    "fertilizer": "Chili peppers prefer a balanced fertilizer such as 5-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Green Beans",
+    "botanical_name": "Phaseolus vulgaris",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Regular",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Warm",
+    "growth_time": "50-60 days",
+    "how_to_grow": [
+      "Direct sow in the garden after the last frost.",
+      "Space seeds 1-2 inches apart.",
+      "Thin plants after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly.",
+      "Provide support for climbing varieties.",
+      "Harvest beans regularly to encourage more production."
+    ],
+    "fertilizer": "Green beans benefit from a nitrogen-rich fertilizer or compost."
+  },
+  {
+    "plant_name": "Onion",
+    "botanical_name": "Allium cepa",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "90-120 days",
+    "how_to_grow": [
+      "Sow seeds indoors 6-8 weeks before last frost.",
+      "Transplant when the soil is warm.",
+      "Space plants 4-6 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly to avoid drying out.",
+      "Weed frequently to avoid competition.",
+      "Harvest when tops begin to fall over."
+    ],
+    "fertilizer": "Onions require a balanced fertilizer, such as 10-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Peas",
+    "botanical_name": "Pisum sativum",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Well-drained, Loamy",
+    "climate": "Cool",
+    "growth_time": "60-70 days",
+    "how_to_grow": [
+      "Sow seeds in early spring as soon as the soil is workable.",
+      "Space seeds 1-2 inches apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Provide support for climbing varieties.",
+      "Mulch to keep soil temperature stable."
+    ],
+    "fertilizer": "Peas prefer a balanced fertilizer or organic compost. Nitrogen-rich fertilizers are also suitable."
+  },
+  {
+    "plant_name": "Broccoli",
+    "botanical_name": "Brassica oleracea var. italica",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "70-100 days",
+    "how_to_grow": [
+      "Start indoors 6-8 weeks before last frost.",
+      "Transplant when the soil is warm.",
+      "Space plants 18-24 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Use organic fertilizer for better yield.",
+      "Harvest when heads are firm and tight."
+    ],
+    "fertilizer": "Broccoli benefits from a balanced NPK fertilizer, such as 10-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Cauliflower",
+    "botanical_name": "Brassica oleracea var. botrytis",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "55-100 days",
+    "how_to_grow": [
+      "Start indoors 6-8 weeks before last frost.",
+      "Transplant when the soil is warm.",
+      "Space plants 18-24 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly to avoid drying out.",
+      "Mulch to keep the soil cool.",
+      "Harvest when the head is tight and firm."
+    ],
+    "fertilizer": "Cauliflower requires a balanced fertilizer such as 10-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Kale",
+    "botanical_name": "Brassica oleracea var. sabellica",
+    "category": "Vegetable",
+    "sunlight": "Full Sun or Partial Shade",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "50-75 days",
+    "how_to_grow": [
+      "Direct sow in the garden after last frost.",
+      "Space seeds 12 inches apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Harvest leaves regularly to encourage more growth.",
+      "Mulch to keep weeds down."
+    ],
+    "fertilizer": "Kale benefits from a balanced fertilizer, such as 10-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Radish",
+    "botanical_name": "Raphanus sativus",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "20-30 days",
+    "how_to_grow": [
+      "Direct sow seeds in the garden.",
+      "Space seeds 1 inch apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to avoid splitting.",
+      "Keep the soil free of weeds.",
+      "Harvest when roots are firm."
+    ],
+    "fertilizer": "Radishes prefer light fertilization, with organic compost being ideal."
+  },
+  {
+    "plant_name": "Zucchini",
+    "botanical_name": "Cucurbita pepo",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Regular",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Warm",
+    "growth_time": "50-60 days",
+    "how_to_grow": [
+      "Start indoors 3-4 weeks before last frost.",
+      "Transplant when soil is warm.",
+      "Space plants 18-24 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Mulch to retain soil moisture.",
+      "Harvest early for tender zucchini."
+    ],
+    "fertilizer": "Use a balanced fertilizer, such as 10-10-10, or organic compost to encourage healthy growth."
+  },
+  {
+    "plant_name": "Pumpkin",
+    "botanical_name": "Cucurbita pepo",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Warm",
+    "growth_time": "90-120 days",
+    "how_to_grow": [
+      "Start indoors 3-4 weeks before last frost.",
+      "Transplant when soil is warm.",
+      "Space plants 36-48 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water deeply and regularly.",
+      "Mulch to retain soil moisture.",
+      "Provide space for sprawling vines."
+    ],
+    "fertilizer": "Pumpkins thrive with a balanced fertilizer like 10-10-10 or organic compost."
+  },
+  {
+    "plant_name": "Beetroot",
+    "botanical_name": "Beta vulgaris",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "50-70 days",
+    "how_to_grow": [
+      "Direct sow seeds in the garden.",
+      "Space seeds 2-4 inches apart.",
+      "Thin seedlings after emergence."
+    ],
+    "maintenance_tips": [
+      "Water regularly to avoid root splitting.",
+      "Keep soil free of weeds.",
+      "Harvest when roots are firm."
+    ],
+    "fertilizer": "Beetroot benefits from a balanced NPK fertilizer, such as 10-10-10, or organic compost."
+  },
+  {
+    "plant_name": "Sweet Corn",
+    "botanical_name": "Zea mays",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Warm",
+    "growth_time": "60-100 days",
+    "how_to_grow": [
+      "Direct sow seeds in the garden after the last frost.",
+      "Space seeds 8-12 inches apart.",
+      "Thin plants after emergence."
+    ],
+    "maintenance_tips": [
+      "Water deeply and regularly.",
+      "Mulch to retain moisture.",
+      "Provide support for tall plants."
+    ],
+    "fertilizer": "Use a balanced fertilizer, such as 10-10-10, or organic compost for healthy growth."
+  },
+  {
+    "plant_name": "Cabbage",
+    "botanical_name": "Brassica oleracea var. capitata",
+    "category": "Vegetable",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Cool",
+    "growth_time": "70-100 days",
+    "how_to_grow": [
+      "Start indoors 6-8 weeks before last frost.",
+      "Transplant when the soil is warm.",
+      "Space plants 18-24 inches apart."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep soil moist.",
+      "Mulch to prevent weeds.",
+      "Harvest when heads are firm and tight."
+    ],
+    "fertilizer": "Cabbage benefits from a balanced NPK fertilizer like 10-10-10 or organic compost."
+  },
+ {
+    "plant_name": "Mango",
+    "botanical_name": "Mangifera indica",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "120-150 days",
+    "how_to_grow": [
+      "Plant in well-drained soil with good sunlight.",
+      "Space trees at least 10 feet apart.",
+      "Ensure the soil is rich in organic matter."
+    ],
+    "maintenance_tips": [
+      "Water deeply but avoid waterlogging.",
+      "Prune regularly to remove dead or damaged branches.",
+      "Fertilize with organic compost in early spring."
+    ],
+    "fertilizer": "Mango trees benefit from balanced organic fertilizer, or compost, during the growing season."
+  },
+  {
+    "plant_name": "Banana",
+    "botanical_name": "Musa spp.",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "9-12 months",
+    "how_to_grow": [
+      "Plant banana in fertile, well-drained soil.",
+      "Space plants about 8 feet apart.",
+      "Bananas require a lot of water, especially during dry periods."
+    ],
+    "maintenance_tips": [
+      "Regularly water and keep the soil moist.",
+      "Protect plants from strong winds.",
+      "Add organic matter or compost regularly."
+    ],
+    "fertilizer": "Bananas thrive with regular feeding of compost or organic fertilizer during the growing season."
+  },
+  {
+    "plant_name": "Guava",
+    "botanical_name": "Psidium guajava",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "100-120 days",
+    "how_to_grow": [
+      "Plant in well-drained soil with full sunlight.",
+      "Space trees 10-12 feet apart.",
+      "Water regularly but avoid standing water around roots."
+    ],
+    "maintenance_tips": [
+      "Prune branches to maintain tree shape.",
+      "Fertilize with organic compost.",
+      "Control pests and diseases by using natural remedies."
+    ],
+    "fertilizer": "Guava trees benefit from organic compost and balanced NPK fertilizer for optimal fruiting."
+  },
+  {
+    "plant_name": "Papaya",
+    "botanical_name": "Carica papaya",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "6-12 months",
+    "how_to_grow": [
+      "Plant papaya seeds in well-drained, sandy soil.",
+      "Space plants 6-8 feet apart.",
+      "Water frequently, especially during hot and dry periods."
+    ],
+    "maintenance_tips": [
+      "Fertilize regularly with organic manure.",
+      "Water deeply but avoid over-watering.",
+      "Protect papaya from strong winds."
+    ],
+    "fertilizer": "Papaya plants benefit from balanced NPK fertilizer and organic compost."
+  },
+  {
+    "plant_name": "Jackfruit",
+    "botanical_name": "Artocarpus heterophyllus",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "8-12 months",
+    "how_to_grow": [
+      "Plant jackfruit trees in deep, well-drained soil.",
+      "Space trees 15-20 feet apart for better airflow.",
+      "Water regularly, especially during dry seasons."
+    ],
+    "maintenance_tips": [
+      "Prune trees to allow light to reach the lower branches.",
+      "Fertilize with organic compost or farmyard manure.",
+      "Control pests and diseases using organic methods."
+    ],
+    "fertilizer": "Jackfruit trees benefit from organic compost and periodic feeding with balanced NPK fertilizer."
+  },
+  {
+    "plant_name": "Apple",
+    "botanical_name": "Malus domestica",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Temperate",
+    "growth_time": "150-180 days",
+    "how_to_grow": [
+      "Plant apple trees in a sunny, well-drained spot.",
+      "Space trees 12-15 feet apart.",
+      "Ensure the soil is slightly acidic and rich in organic matter."
+    ],
+    "maintenance_tips": [
+      "Water regularly, especially during dry periods.",
+      "Prune trees annually to encourage healthy growth.",
+      "Protect trees from pests and diseases with organic solutions."
+    ],
+    "fertilizer": "Apple trees benefit from balanced organic fertilizers or compost during the growing season."
+  },
+  {
+    "plant_name": "Orange",
+    "botanical_name": "Citrus sinensis",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Tropical/Subtropical",
+    "growth_time": "10-12 months",
+    "how_to_grow": [
+      "Plant orange trees in a sunny location with well-drained soil.",
+      "Space trees 12-15 feet apart.",
+      "Ensure good airflow around the tree to reduce the risk of disease."
+    ],
+    "maintenance_tips": [
+      "Water deeply and regularly, especially during hot weather.",
+      "Fertilize with organic compost or balanced NPK fertilizer.",
+      "Prune regularly to remove dead branches and improve air circulation."
+    ],
+    "fertilizer": "Orange trees thrive with regular feeding of balanced fertilizers and organic compost."
+  },
+  {
+    "plant_name": "Pineapple",
+    "botanical_name": "Ananas comosus",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "18-24 months",
+    "how_to_grow": [
+      "Plant pineapple in well-drained, sandy soil.",
+      "Space plants about 3 feet apart.",
+      "Pineapple requires a warm environment with plenty of sunlight."
+    ],
+    "maintenance_tips": [
+      "Water pineapple plants deeply but avoid overwatering.",
+      "Fertilize with a balanced, low-nitrogen fertilizer.",
+      "Mulch around the base to retain moisture and control weeds."
+    ],
+    "fertilizer": "Pineapple plants prefer low-nitrogen, balanced fertilizers for healthy growth."
+  },
+  {
+    "plant_name": "Strawberry",
+    "botanical_name": "Fragaria × ananassa",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Temperate",
+    "growth_time": "3-4 months",
+    "how_to_grow": [
+      "Plant strawberries in rich, well-drained soil with full sunlight.",
+      "Space plants 12-18 inches apart.",
+      "Mulch around the plants to conserve moisture and suppress weeds."
+    ],
+    "maintenance_tips": [
+      "Water strawberries regularly, especially during dry periods.",
+      "Fertilize with organic compost or balanced NPK fertilizer.",
+      "Remove any runners to encourage fruit production."
+    ],
+    "fertilizer": "Strawberries benefit from balanced fertilizers and organic compost to support fruit development."
+  },
+  {
+    "plant_name": "Lemon",
+    "botanical_name": "Citrus limon",
+    "category": "Fruit",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Tropical/Subtropical",
+    "growth_time": "6-9 months",
+    "how_to_grow": [
+      "Plant lemon trees in a sunny, sheltered location with well-drained soil.",
+      "Space trees 10-15 feet apart.",
+      "Ensure the soil is slightly acidic and rich in organic material."
+    ],
+    "maintenance_tips": [
+      "Water deeply and regularly, especially during dry periods.",
+      "Prune trees to maintain shape and remove dead or diseased branches.",
+      "Fertilize with balanced NPK fertilizer during the growing season."
+    ],
+    "fertilizer": "Lemon trees benefit from balanced NPK fertilizers and organic compost for healthy fruit production."
+  },
+ {
+    "plant_name": "Jasmine",
+    "botanical_name": "Jasminum sambac",
+    "category": "Flower",
+    "sunlight": "Full Sun to Partial Shade",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Tropical/Subtropical",
+    "growth_time": "3-4 months",
+    "how_to_grow": [
+      "Plant jasmine in well-drained, fertile soil.",
+      "Space plants 2-3 feet apart.",
+      "Ensure the plant gets full sun or partial shade."
+    ],
+    "maintenance_tips": [
+      "Water regularly but avoid waterlogging.",
+      "Prune to encourage bushier growth and remove dead or damaged branches.",
+      "Fertilize with organic compost or balanced NPK fertilizers."
+    ],
+    "fertilizer": "Jasmine plants benefit from organic compost and balanced fertilizers to promote blooming."
+  },
+  {
+    "plant_name": "Marigold",
+    "botanical_name": "Tagetes erecta",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Well-drained, Loamy",
+    "climate": "Tropical/Subtropical",
+    "growth_time": "2-3 months",
+    "how_to_grow": [
+      "Plant marigold seeds in well-drained soil with full sunlight.",
+      "Space plants 6-12 inches apart.",
+      "Ensure the soil is fertile and slightly acidic."
+    ],
+    "maintenance_tips": [
+      "Water regularly to keep the soil moist but not soggy.",
+      "Deadhead spent flowers to encourage new blooms.",
+      "Fertilize with a balanced, slow-release fertilizer."
+    ],
+    "fertilizer": "Marigolds benefit from a balanced NPK fertilizer to support healthy growth and vibrant blooms."
+  },
+  {
+    "plant_name": "Hibiscus",
+    "botanical_name": "Hibiscus rosa-sinensis",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "5-6 months",
+    "how_to_grow": [
+      "Plant hibiscus in sunny spots with well-drained, fertile soil.",
+      "Space plants 3-4 feet apart.",
+      "Ensure the soil is rich in organic matter for better blooming."
+    ],
+    "maintenance_tips": [
+      "Water regularly, especially during dry periods.",
+      "Prune regularly to remove dead flowers and promote new growth.",
+      "Mulch around the plant to retain moisture and suppress weeds."
+    ],
+    "fertilizer": "Hibiscus plants thrive with balanced NPK fertilizers, preferably organic or slow-release."
+  },
+  {
+    "plant_name": "Lotus",
+    "botanical_name": "Nelumbo nucifera",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "High",
+    "soil_type": "Clay, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "4-5 months",
+    "how_to_grow": [
+      "Plant lotus in a pond with rich, clayey soil at the bottom.",
+      "Ensure the water depth is around 6-12 inches.",
+      "Space plants 1-2 feet apart to allow proper growth."
+    ],
+    "maintenance_tips": [
+      "Ensure the water remains at a consistent level and is kept free of debris.",
+      "Fertilize monthly with slow-release aquatic fertilizer.",
+      "Remove dead flowers and leaves to maintain water quality."
+    ],
+    "fertilizer": "Lotus plants benefit from aquatic fertilizers with a balanced nutrient profile."
+  },
+  {
+    "plant_name": "Sunflower",
+    "botanical_name": "Helianthus annuus",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Temperate/Tropical",
+    "growth_time": "2-3 months",
+    "how_to_grow": [
+      "Plant sunflower seeds in well-drained, loamy soil with full sunlight.",
+      "Space seeds 6 inches apart, thinning as they grow.",
+      "Ensure the soil is rich in organic matter for best results."
+    ],
+    "maintenance_tips": [
+      "Water deeply but infrequently.",
+      "Support taller varieties with stakes to prevent them from toppling over.",
+      "Fertilize with organic compost or balanced fertilizer for healthy blooms."
+    ],
+    "fertilizer": "Sunflowers prefer balanced fertilizers or organic compost to support healthy growth and vibrant flowers."
+  },
+  {
+    "plant_name": "Rose",
+    "botanical_name": "Rosa spp.",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Well-drained",
+    "climate": "Temperate to Subtropical",
+    "growth_time": "3-6 months",
+    "how_to_grow": [
+      "Plant in a sunny location with well-drained soil.",
+      "Space plants 2-3 feet apart.",
+      "Water deeply and regularly."
+    ],
+    "maintenance_tips": [
+      "Prune regularly to promote blooms.",
+      "Remove dead or diseased leaves.",
+      "Protect from aphids and fungal diseases."
+    ],
+    "fertilizer": "Use a high-potassium fertilizer or rose-specific fertilizer every 2-4 weeks during the growing season."
+  },
+  {
+    "plant_name": "Bougainvillea",
+    "botanical_name": "Bougainvillea glabra",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "Low to Moderate",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Tropical/Subtropical",
+    "growth_time": "3-4 months",
+    "how_to_grow": [
+      "Plant in a sunny, dry location.",
+      "Use well-draining sandy soil.",
+      "Water only when the soil is dry."
+    ],
+    "maintenance_tips": [
+      "Prune after flowering to shape the plant.",
+      "Avoid overwatering to promote blooming.",
+      "Use support if grown as a climber."
+    ],
+    "fertilizer": "Apply phosphorus-rich fertilizer monthly during growing season."
+  },
+  {
+    "plant_name": "Chrysanthemum",
+    "botanical_name": "Chrysanthemum morifolium",
+    "category": "Flower",
+    "sunlight": "Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Well-drained, Rich in Organic Matter",
+    "climate": "Temperate to Tropical",
+    "growth_time": "3-4 months",
+    "how_to_grow": [
+      "Plant in early spring or late summer.",
+      "Provide full sun and well-drained soil.",
+      "Pinch back stems to encourage branching."
+    ],
+    "maintenance_tips": [
+      "Water at the base to avoid fungal issues.",
+      "Deadhead spent flowers to encourage blooming.",
+      "Protect from pests like aphids and thrips."
+    ],
+    "fertilizer": "Use a balanced liquid fertilizer every two weeks during active growth."
+  },
+  {
+    "plant_name": "Periwinkle",
+    "botanical_name": "Catharanthus roseus",
+    "category": "Flower",
+    "sunlight": "Full Sun to Partial Shade",
+    "water_needs": "Low to Moderate",
+    "soil_type": "Sandy, Well-drained",
+    "climate": "Tropical",
+    "growth_time": "2-3 months",
+    "how_to_grow": [
+      "Sow seeds or transplant in sunny locations.",
+      "Water sparingly after establishment.",
+      "Avoid heavy clay soil."
+    ],
+    "maintenance_tips": [
+      "Requires minimal care once established.",
+      "Avoid overwatering to prevent root rot.",
+      "Pinch back for bushier growth."
+    ],
+    "fertilizer": "Apply diluted liquid fertilizer every 4-6 weeks during blooming."
+  },
+  {
+    "plant_name": "Crossandra",
+    "botanical_name": "Crossandra infundibuliformis",
+    "category": "Flower",
+    "sunlight": "Partial Shade to Full Sun",
+    "water_needs": "Moderate",
+    "soil_type": "Loamy, Moist but Well-drained",
+    "climate": "Tropical",
+    "growth_time": "3-4 months",
+    "how_to_grow": [
+      "Plant in a location with morning sun and afternoon shade.",
+      "Maintain moist soil, especially during dry spells.",
+      "Use organic-rich soil."
+    ],
+    "maintenance_tips": [
+      "Regular deadheading enhances blooming.",
+      "Water during dry spells to prevent wilting.",
+      "Mulch to retain soil moisture."
+    ],
+    "fertilizer": "Use a balanced fertilizer (10-10-10) once a month."
+  },
+{
+  "plant_name": "Arali",
+  "botanical_name": "Nerium oleander",
+  "category": "Flower",
+  "sunlight": "Full Sun",
+  "water_needs": "Low to Moderate",
+  "soil_type": "Sandy, Well-drained",
+  "climate": "Tropical to Subtropical",
+  "growth_time": "6-9 months to maturity",
+  "how_to_grow": [
+    "Plant in a location with full sunlight.",
+    "Use well-drained soil, avoid waterlogging.",
+    "Space shrubs 3-5 feet apart for best growth."
+  ],
+  "maintenance_tips": [
+    "Prune to shape and remove dead branches after flowering.",
+    "Resistant to drought, water sparingly once established.",
+    "Keep away from pets and children—plant parts are toxic if ingested."
+  ],
+  "fertilizer": "Use balanced fertilizer (10-10-10) during the growing season; apply once in spring and summer."
+}
+]
