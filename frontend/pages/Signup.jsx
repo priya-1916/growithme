@@ -15,7 +15,7 @@ const Signup = () => {
     e.preventDefault();
 
     try {
-      const response = await axios.post('http://localhost:5000/api/signup', {
+      const response = await axios.post('https://grow-backend-1.onrender.com/api/signup', {
         name,
         email,
         password,
