@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 import Home from '../pages/Home';
 import Dashboard from '../pages/Dashboard';
 import Login from '../pages/Login';
-import Signup from '../pages/SignUp';
+import Signup from '../pages/Signup';
 import Blog from '../pages/Blog';
 import Learnmore from '../pages/Learnmore';
 import UserDashboard from '../pages/UserDashboard';
