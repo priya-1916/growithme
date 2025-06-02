@@ -157,7 +157,7 @@ const UserDashboard = () => {
         }
       };
 
-      const response = await fetch('http://localhost:5000/api/watering/watering-schedules', {
+      const response = await fetch('https://grow-backend-1.onrender.com/api/watering/watering-schedules', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -214,7 +214,7 @@ const handleSendEmail = async (scheduleId, plantName, wateringDate, wateringTime
       throw new Error('User email not found');
     }
     const formattedDate = formatScheduleDate(wateringDate, wateringTime);
-    const response = await fetch('http://localhost:5000/api/email/send-reminder', {
+    const response = await fetch('https://grow-backend-1.onrender.com/api/email/send-reminder', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
