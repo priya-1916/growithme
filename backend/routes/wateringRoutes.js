@@ -164,5 +164,14 @@ router.delete('/watering-schedules/:id', async (req, res) => {
     res.status(500).json({ message: 'Server error' });
   }
 });
+router.get('/watering-schedules', authMiddleware, async (req, res) => {
+  try {
+    const schedules = await WateringSchedule.find({ user: req.user._id });
+    res.json(schedules);
+  } catch (error) {
+    console.error('Error fetching watering schedules:', error.message);
+    res.status(500).json({ message: 'Server error' });
+  }
+});
 
 module.exports = router;
